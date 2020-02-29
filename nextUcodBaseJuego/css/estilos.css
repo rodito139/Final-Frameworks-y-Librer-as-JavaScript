@@ -33,6 +33,11 @@ body{
   width: 100%;
 }
 
+.dulce{
+  width: 95%;
+  height: 93px;
+}
+
 .panel-tablero{
   width: 70%;
   border: 10px solid #E87306;
